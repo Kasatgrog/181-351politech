@@ -5,5 +5,5 @@ git add *.vcxproj.filters
 git add *.h 
 git add *.bat 
 git commit -am "%DATE% %TIME%"
-git push Kasatgrog master
+git push my_labs master
 pause
