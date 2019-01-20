@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\egor\source\repos\lection2\probnik_exam\source.cpp(20): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\egor\source\repos\lection2\probnik_exam\source.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+  probnik_exam.vcxproj -> C:\Users\Egor\source\repos\lection2\Debug\probnik_exam.exe
