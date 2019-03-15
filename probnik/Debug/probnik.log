@@ -1,0 +1,8 @@
+﻿  exam.cpp
+c:\users\egor\source\repos\lection2\probnik\exam.cpp(79): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\egor\source\repos\lection2\probnik\exam.cpp(113): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\egor\source\repos\lection2\probnik\exam.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\egor\source\repos\lection2\probnik\exam.cpp(149): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\egor\source\repos\lection2\probnik\exam.cpp(167): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\egor\source\repos\lection2\probnik\exam.cpp(182): warning C4018: <: несоответствие типов со знаком и без знака
+  probnik.vcxproj -> C:\Users\Egor\source\repos\lection2\Debug\probnik.exe
